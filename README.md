@@ -1,68 +1,13 @@
 # 👋 Hi, I’m Elias Durán
 
-🚀 **DevOps Engineer** specializing in automation, cloud infrastructure, and platform reliability.  
-I build scalable systems, automate operations, and improve developer and operational efficiency.
+🚀 DevOps Engineer with hands-on experience in automation, cloud infrastructure, and production platform support. I help teams improve reliability, reduce manual effort, and operate scalable web systems efficiently.
+
+🔧 Core strengths include Linux, Ansible, CI/CD, Cloudflare, AWS, HAProxy, Apache, and WebLogic, with a solid networking foundation (DNS, HTTP/S). I build automation and tooling using Bash, Python, YAML, and Git, and I’m comfortable supporting systems end-to-end in real environments.
+
+🌱 Growth-driven engineer continuously expanding skills in cloud architecture, AI-assisted automation, and web development (HTML, CSS, JavaScript). Known for ownership, clear documentation, and strong collaboration across teams.
 
 ---
 
-## ⚡ In 10 Seconds
-- DevOps Engineer with hands-on production experience  
-- Strong focus on **automation, reliability, and documentation**
-- Background in **cloud, networking, and web platforms**
-- Constant learner: cloud architecture, AI-assisted automation & web dev
-
----
-
-## 🧠 What I Bring
-- Automation-first mindset (reduce manual work, increase consistency)
-- Strong ownership of systems and processes
-- Ability to support, improve, and scale existing platforms
-- Clear documentation and knowledge sharing
-
----
-
-## 🔧 Technical Skills
-
-### DevOps & Cloud
-- Ansible • CI/CD • Linux • Cloudflare • AWS
-- Infrastructure as Code & automation pipelines
-- Monitoring, troubleshooting & platform support
-
-### Platforms & Services
-- HAProxy • Apache • WebLogic
-- Reverse proxies, load balancing & web services
-- Networking fundamentals (DNS, HTTP/S, routing)
-
-### Scripting & Tools
-- Bash • Python
-- Git • YAML • JSON
-
----
-
-## 🌱 Currently Learning
-- Web Development (HTML • CSS • JavaScript)
-- Advanced Cloud Architecture & design patterns
-- AI-driven automation & productivity tools
-
----
-
-## 📌 Focus Areas
-- Platform reliability & operational excellence
-- Automation & self-service tooling
-- Cloud-native practices
-- Knowledge management & documentation
-
----
-
-## 📈 Mindset
-- Automate everything that repeats
-- Document what matters
-- Learn continuously
-- Build systems that scale — technically and operationally
-
----
-
-📫 **Let’s connect**
-- GitHub: You’re already here 😉
-- LinkedIn: [Here](www.linkedin.com/in/elias-duran)
-- Open to collaboration, learning, and growth
+## 📫 Contact
+- GitHub: https://github.com/edchdevops  
+- LinkedIn: https://www.linkedin.com/in/elias-duran
