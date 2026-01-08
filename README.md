@@ -64,5 +64,5 @@ I build scalable systems, automate operations, and improve developer and operati
 
 📫 **Let’s connect**
 - GitHub: You’re already here 😉
-- LinkedIn: (Here)[www.linkedin.com/in/elias-duran]
+- LinkedIn: [Here](www.linkedin.com/in/elias-duran)
 - Open to collaboration, learning, and growth
